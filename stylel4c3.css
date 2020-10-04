@@ -1,0 +1,30 @@
+body{
+  background-color: #202020;
+}
+.white{
+  border: white solid;
+border-top: white 10px solid;
+border-bottom: white 20px solid;w dw
+}
+
+.green{
+background-color:#008000;
+margin-top: 350px
+}
+.box{
+  border: black 4px dotted;
+}
+
+#redText{
+  color: red;
+  font-weight: bold;
+}
+
+#greenText{
+  color: #006400;
+  font-weight: bold;
+}
+
+#purpleText{
+  color: purple;
+}
