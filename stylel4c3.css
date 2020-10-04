@@ -15,16 +15,16 @@ margin-top: 350px
   border: black 4px dotted;
 }
 
-#redText{
+.redText{
   color: red;
   font-weight: bold;
 }
 
-#greenText{
+.greenText{
   color: #006400;
   font-weight: bold;
 }
 
-#purpleText{
+.purpleText{
   color: purple;
 }
