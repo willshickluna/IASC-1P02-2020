@@ -1,0 +1,26 @@
+body{
+  color:white;
+  font-weight: bold;
+}
+
+#wrapper {
+  width:1920px;
+   margin:0 auto;
+  background-color: green;
+}
+
+#header{
+  height:80px;
+  text-align:center;
+  background-color: red;
+}
+
+#leftbody{
+  height:700px;
+}
+
+#footer{
+  height: 80px;
+  background-color: blue;
+  clear:both;
+}
