@@ -1,0 +1,55 @@
+body{
+  background-color: green;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+h1{
+  font-size:35px ;
+}
+
+#wrapper {
+  width:1000px;
+   margin:0 auto;
+  background-color: green;
+}
+
+#header{
+  height:100px;
+  text-align:center;
+  background-color: red;
+}
+
+#leftnav{
+  height:100px;
+  width: 300px;
+  background-color: #FFB6C1;
+  float: left;
+  padding-bottom: 0;
+}
+
+#rightnav{
+  height: 100px;
+  width: 700px;
+  background-color: orange;
+  float:right;
+  padding-bottom: 0;
+}
+
+#content {
+  height: 700px;
+  background-color: blue;
+  padding-bottom: 0;
+}
+
+#footer{
+  height:100px;
+  background-color:yellow;
+  clear: both;
+  padding-top: 0;
+  border-top: 20px yellow solid;
+}
+
+.hugLeft{
+  padding-top: 10px;
+}
