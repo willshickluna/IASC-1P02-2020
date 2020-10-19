@@ -1,0 +1,72 @@
+#list {
+  background-color: orange;
+}
+
+#list ol {
+  color: red;
+  font-weight: bold;
+}
+#list p {
+  background-color: orange;
+  font-size: 20px;
+  font-family: cursive;
+  font-style: oblique;
+  border: outset red 5px;
+  width: 270px;
+}
+.header {
+  background-color: red;
+  color: blue;
+  top: 1px;
+  border: dashed purple 4px;
+  width: 320px;
+  position:fixed;
+  z-index: 10;
+}
+
+.blueHead {
+  margin: 0 auto;
+  padding: 3px;
+}
+
+.down {
+  margin-top: 70px;
+}
+
+.bigText {
+  font-size: 40px;
+  font-family:monospace;
+}
+
+.fontA {
+  font-family: arial;
+}
+
+.caps {
+ text-transform: uppercase;
+}
+
+.smaller {
+ width: 200px;
+ position: absolute;
+ margin-left:730px;
+ border: solid pink 20px;
+ margin-top: 150px;
+}
+
+.relative {
+  position: relative;
+  width: 230px;
+  margin-left: 10px;
+  border-radius: 10px;
+  border: solid green 1px;
+}
+
+p {
+  background-color: pink;
+}
+
+.para, .caps, .nibh {
+  font-size: 20px;
+  font-family:fantasy;
+}
