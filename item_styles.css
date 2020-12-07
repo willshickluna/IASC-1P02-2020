@@ -1,0 +1,13 @@
+.item p, img{ 
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.item button {
+    color: white;
+    background-color: #e94560;
+}
+
+.item {
+    margin-bottom: 20px;
+}

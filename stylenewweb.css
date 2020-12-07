@@ -26,8 +26,8 @@ z-index: 10;
 }
 
 #wrapper {
-  width: 1000px;
-  height: 700px;
+  width: auto;
+  height: auto;
   margin:auto auto;
   background-color: #06227D;
   border: #06227D 5px solid;
@@ -64,15 +64,6 @@ z-index: 10;
   float:left;
 }
 
-#rightcontent{
-  height: 300px;
-  width: 250px;
-  background-color: #FFDB58;
-  float: right;
-  margin-top: 210px;
-  margin-right: 100px;
-}
-
 #midcontent {
   height: 300px;
   width: 250px;
@@ -80,11 +71,3 @@ z-index: 10;
  margin-top: 210px;
  margin-left: 375px;
 }
-
-#footer{
-    height: 30px;
-    width: 1000px;
-    background-color:#ebc8b2;
-    margin-top: 170px;
-
-    }

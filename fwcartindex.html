@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="cart_styles.css" />
+  <link rel="stylesheet" type="text/css" href="navigation_styles.css" />
+  <link rel="stylesheet" type="text/css" href="uniform_styles.css" />
+  <script src="script.js"></script>
+</head>
+<body>
+
+<ul>
+  <li><a href="fwhomeindex.html">Home</a></li>
+  <li><a href="fwprodindex.html">Products</a></li>
+  <li><a class="active" href="fwcartindex.html">Cart</a></li>
+</ul>
+
+<body onload="getItemsInCart()">
+  <div class="content">
+    <h1>Thank you for shopping with us, we hope you enjoyed your stay!</h1>
+    <div class="cart">
+      <h2> Your Cart: </h2>
+      <div id="cart-items" class="cart-items">
+
+        <p id="output"></p>
+      </div>
+
+      <p id="total"> </p>
+    </div>
+  </div>
+</body>
+
+<footer class="content-footer">
+    © 2020, HTML COMPUTER BAZAAR, Head Office - 72 Brock Drive
+</footer>

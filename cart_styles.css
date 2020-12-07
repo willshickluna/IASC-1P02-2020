@@ -1,0 +1,16 @@
+.cart { 
+    text-align: center;
+}
+
+h1 {
+    min-height: 150px;
+}
+
+h2{
+    font-size: 24;
+}
+
+.cart-items {
+    min-height: 200px;
+    overflow: auto;
+}

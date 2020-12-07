@@ -1,0 +1,38 @@
+body { 
+    background-color: #16213e;
+}
+
+p {
+    color: #FFF;
+    font-family: 'Rubik', sans-serif;
+}
+
+h2, h3 {
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: beige;
+    font-size: 90;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.content {
+    margin-left:13%;
+    padding:1px 16px;
+    min-height:100px;
+    overflow: auto;
+}
+
+.content-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #16213e;
+    color: white;
+    text-align: center;
+  }
