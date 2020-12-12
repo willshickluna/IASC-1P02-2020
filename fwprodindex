@@ -22,7 +22,7 @@
 <div class = "content">
   <h2>Gaming Desktops</h2>
   <div class="item">
-    <img width="400" height="400" src="./pc1_1.png">
+    <img width="400" height="400" src="./pc1_1.png" alt: "A computer">
     <p><strong>ARMOURY Gaming PC A-006 - $900</strong></p>
     <p> Brand    Armoury </br>
       Computer Type    Gaming </br>
@@ -47,7 +47,7 @@
     <button onclick="addItem(1)"> Add to cart</button>
   </div>
   <div class = "item">
-    <img width="400" height="400" src="pc1_2.png">
+    <img width="400" height="400" src="pc1_2.png" "A computer">
     <p><strong> Gaming PC A-007 - $2300</strong></p>
     <p> Brand    Armoury </br>
       Computer Type    Gaming </br>
@@ -72,7 +72,7 @@
     <button onclick="addItem(2)"> Add to cart</button>
   </div>
   <div class = "item">
-    <img width="400" height="400" src="pc1_3.png">
+    <img width="400" height="400" src="pc1_3.png" "A computer">
     <p> <strong>ARMOURY Gaming PC A-009 - $3500 </strong></p>
     <p>Brand    Armoury </br>
       Computer Type    Gaming</br>
